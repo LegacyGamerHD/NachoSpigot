@@ -119,6 +119,10 @@
 
     <repositories>
         <repository>
+            <id>elmakers-repo</id>
+            <url>http://maven.elmakers.com/repository/</url>
+        </repository>
+        <repository>
             <id>spigotmc-public</id>
             <url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
         </repository>
